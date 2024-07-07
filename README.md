@@ -3,7 +3,7 @@ Summary of RAG Resources.
 
 ## Content
 
-- [Survey](#1.survey)
+- [Survey](#1. survey)
 - [System](#2.system)
 - [Chunker](#4.chunker)
 ## 1. Survey
