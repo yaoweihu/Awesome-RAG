@@ -17,7 +17,11 @@ Summary of RAG Resources.
 [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)  
 2023.12 - Yunfan Gao - Tongji University, China  
 
-## 2. System
+## 2. Framework
+[Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
+2024.07 - Yu Bai - Tsinghua University, China  
+[RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12566)    
+2024.06 - Shuting Wang - Renmin University, China
 
 ## 3. Query
 
@@ -26,5 +30,5 @@ Summary of RAG Resources.
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
 
 ## GitHub
-[Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.
+[Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
 [TinyRAG](https://github.com/KMnO4-zx/TinyRAG): Tiny RAG includes simple components, such as Embeddings, LLMs, VectorBase, utils.
