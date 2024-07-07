@@ -3,15 +3,15 @@ Summary of RAG Resources.
 
 ## Content
 
-- [Survey](#survey)
-- [System](#system)
-- [Chunker](#chunker)
-## Survey
+- [Survey](#1.survey)
+- [System](#2.system)
+- [Chunker](#4.chunker)
+## 1. Survey
 ![](https://img.shields.io/badge/orange) [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)  
 2024.04 - Yizheng Huang - York University
 
-## System
+## 2. System
 
-## Query Manipulation
+## 3. Query Manipulation
 
-## Chunker
+## 4. Chunker
