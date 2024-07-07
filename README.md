@@ -7,6 +7,8 @@ Summary of RAG Resources.
 - [2. System](#2-system)
 - [3. Query](#3-query)
 - [4. Chunker](#4-chunker)
+- [GitHub](#github)
+  
 ## 1. Survey
 [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)  
 2024.04 - Yizheng Huang - York University, Canada  
@@ -22,3 +24,6 @@ Summary of RAG Resources.
 ## 4. Chunker
 [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
+
+## GitHub
+[Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more
