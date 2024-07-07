@@ -20,3 +20,5 @@ Summary of RAG Resources.
 ## 3. Query
 
 ## 4. Chunker
+[LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
+2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
