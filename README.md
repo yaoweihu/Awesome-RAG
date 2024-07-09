@@ -23,7 +23,7 @@ Summary of RAG Resources.
 [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
 2024.07 - Yu Bai - Tsinghua University, China  
 [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12566)    
-2024.06 - Shuting Wang - Renmin University, China
+2024.06 - Shuting Wang - Renmin University, China  
 [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)  
 2024.06 - Qinyuan Cheng - Fudan University, China  
 
