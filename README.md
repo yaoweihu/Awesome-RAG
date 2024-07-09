@@ -18,6 +18,8 @@ Summary of RAG Resources.
 2023.12 - Yunfan Gao - Tongji University, China  
 
 ## 2. Framework
+[Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)  
+2024.07 - Xiaohua Wang - Fudan University, China  
 [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
 2024.07 - Yu Bai - Tsinghua University, China  
 [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12566)    
