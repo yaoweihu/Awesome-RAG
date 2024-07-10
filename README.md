@@ -4,8 +4,8 @@ Summary of RAG Resources.
 ## Content
 
 - [1. Survey](#1-survey)
-- [2. System](#2-system)
-- [3. Query](#3-query)
+- [2. Comparision](#2-comparision)
+- [3. Framework](#3-framework)
 - [4. Chunker](#4-chunker)
 - [GitHub](#github)
   
@@ -17,19 +17,21 @@ Summary of RAG Resources.
 [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)  
 2023.12 - Yunfan Gao - Tongji University, China  
 
-## 2. Framework
+## 2. Comparision
 [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)  
 2024.07 - Xiaohua Wang - Fudan University, China  
 [BERGEN: A Benchmarking Library for Retrieval-Augmented Generation](https://arxiv.org/pdf/2407.01102)  
 2024.07 - David Rau - NAVER LABS Europe  
+[FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation Research](https://arxiv.org/pdf/2405.13576)  
+2024.07 - Jiajie Jin - Renmin University, China  
+
+## 3. Framework
 [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
 2024.07 - Yu Bai - Tsinghua University, China  
 [RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation](https://arxiv.org/abs/2406.12566)    
 2024.06 - Shuting Wang - Renmin University, China  
 [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)  
 2024.06 - Qinyuan Cheng - Fudan University, China  
-
-## 3. Query
 
 ## 4. Chunker
 [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
