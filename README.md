@@ -7,6 +7,7 @@ Summary of RAG Resources.
 - [2. Comparision](#2-comparision)
 - [3. Framework](#3-framework)
 - [4. Chunker](#4-chunker)
+- [5. Retriever](#5-retriever)
 - [GitHub](#github)
   
 ## 1. Survey
@@ -36,6 +37,10 @@ Summary of RAG Resources.
 ## 4. Chunker
 [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
+
+## 5. Retriever
+[Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238)  
+2021.07 - Jimmy Lin - University of Waterloo, Canada  
 
 ## GitHub
 [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
