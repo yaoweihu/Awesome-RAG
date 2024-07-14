@@ -1,4 +1,4 @@
-# Awasome-RAG
+# Awesome-RAG
 Summary of RAG Resources.
 
 ## Content
