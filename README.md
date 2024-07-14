@@ -33,7 +33,8 @@ Summary of RAG Resources.
 2024.06 - Shuting Wang - Renmin University, China  
 - [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)  
 2024.06 - Qinyuan Cheng - Fudan University, China  
-
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)
+2024.04 - Darren Edge - Microsoft Research, USA  
 ## 4. Chunker
 - [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
