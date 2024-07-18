@@ -41,7 +41,7 @@ Summary of RAG Resources.
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
 
 ## 5. Retriever
-- [Few-shot Reranking for Multi-hop QA via Language Model Prompting](https://arxiv.org/abs/2205.12650)
+- [Few-shot Reranking for Multi-hop QA via Language Model Prompting](https://arxiv.org/abs/2205.12650)  
 2023.05 - Muhammad Khalifa - University of Michigan, USA  
 - [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238)  
 2021.07 - Jimmy Lin - University of Waterloo, Canada  
