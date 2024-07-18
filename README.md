@@ -8,7 +8,7 @@ Summary of RAG Resources.
 - [3. Framework](#3-framework)
 - [4. Chunker](#4-chunker)
 - [5. Retriever](#5-retriever)
-- [GitHub](#github)
+- [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
 - [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)  
@@ -44,6 +44,7 @@ Summary of RAG Resources.
 - [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238)  
 2021.07 - Jimmy Lin - University of Waterloo, Canada  
 
-## GitHub
+## Resource
 - [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
 - [TinyRAG](https://github.com/KMnO4-zx/TinyRAG): Tiny RAG includes simple components, such as Embeddings, LLMs, VectorBase, utils.
+- [Welcome to LLM Ops: LLMs in Production](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)  
