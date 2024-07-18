@@ -48,7 +48,7 @@ Summary of RAG Resources.
 - [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238)  
 2021.07 - Jimmy Lin - University of Waterloo, Canada  
 
-## Resource
+## Miscellaneous
 - [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
 - [TinyRAG](https://github.com/KMnO4-zx/TinyRAG): Tiny RAG includes simple components, such as Embeddings, LLMs, VectorBase, utils.
 - [Welcome to LLM Ops: LLMs in Production](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)  
