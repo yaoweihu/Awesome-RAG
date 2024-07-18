@@ -42,7 +42,9 @@ Summary of RAG Resources.
 
 ## 5. Retriever
 - [Few-shot Reranking for Multi-hop QA via Language Model Prompting](https://arxiv.org/abs/2205.12650)  
-2023.05 - Muhammad Khalifa - University of Michigan, USA  
+2023.05 - Muhammad Khalifa - University of Michigan, USA
+- [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/abs/2302.07452)   
+2023.02 - Sheng-Chieh Lin - University of Waterloo, Canada  
 - [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238)  
 2021.07 - Jimmy Lin - University of Waterloo, Canada  
 
