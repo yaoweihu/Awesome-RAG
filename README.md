@@ -33,7 +33,7 @@ Summary of RAG Resources.
 2024.06 - Shuting Wang - Renmin University, China  
 - [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)  
 2024.06 - Qinyuan Cheng - Fudan University, China  
-- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  
+- [GraphRAG：From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  
 2024.04 - Darren Edge - Microsoft Research, USA
 - [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2310.14696)  
 2023.10 - Gangwoo Kim - Korea University, Korea  
