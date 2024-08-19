@@ -11,6 +11,8 @@ Summary of RAG Resources.
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
+- [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/abs/2407.21059)  
+2024.07 - Yunfan Gao - Tongji University, China  
 - [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)  
 2024.04 - Yizheng Huang - York University, Canada  
 - [Retrieval-Augmented Generation for AI-Generated Content: A Survey](https://arxiv.org/abs/2402.19473)  
