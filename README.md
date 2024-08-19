@@ -29,7 +29,7 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
-- [Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems](https://arxiv.org/abs/2407.10670) ✅
+- [Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems](https://arxiv.org/abs/2407.10670) ✅。
 2024.07 - Yunxiao Shi - University of Technology Sydney  
 - [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
 2024.07 - Yu Bai - Tsinghua University, China  
