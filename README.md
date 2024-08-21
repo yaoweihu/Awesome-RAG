@@ -29,6 +29,8 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
+- [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)  
+2024.08 - Bhaskarjit Sarmah - NVIDIA  
 - [Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems](https://arxiv.org/abs/2407.10670) ✅   
 2024.07 - Yunxiao Shi - University of Technology Sydney  
 - [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
