@@ -64,3 +64,4 @@ Summary of RAG Resources.
 - [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
 - [TinyRAG](https://github.com/KMnO4-zx/TinyRAG): Tiny RAG includes simple components, such as Embeddings, LLMs, VectorBase, utils.
 - [Welcome to LLM Ops: LLMs in Production](https://github.com/AI-Maker-Space/LLM-Ops-Cohort-1)  
+- [Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems](https://github.com/NirDiamant/RAG_Techniques?tab=readme-ov-file)  
