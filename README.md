@@ -53,6 +53,8 @@ Summary of RAG Resources.
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
 
 ## 5. Retriever
+- [M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation]  
+2024.02 - Jianlv Chen - BAAI, China  
 - [Few-shot Reranking for Multi-hop QA via Language Model Prompting](https://arxiv.org/abs/2205.12650)  
 2023.05 - Muhammad Khalifa - University of Michigan, USA
 - [How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval](https://arxiv.org/abs/2302.07452)   
