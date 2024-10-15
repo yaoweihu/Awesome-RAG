@@ -11,6 +11,8 @@ Summary of RAG Resources.
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
+- [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)  
+  2024.09 - Siyun Zhao - Microsoft Research Asia   
 - [Graph Retrieval-Augmented Generation: A Survey](https://www.arxiv.org/abs/2408.08921)  
 2024.08 - Boci Peng - Peking University, China  
 - [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/abs/2407.21059)  
