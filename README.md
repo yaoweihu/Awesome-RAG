@@ -35,6 +35,8 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
+- [OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](https://arxiv.org/abs/2410.01782)  
+  2024.10 - Shayekh Bin Islam - Bangladesh University of Engineering and Technology  
 - [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](https://arxiv.org/abs/2409.05591)  
   2024.09 - Hongjin Qian - Beijing Academy of Artificial Intelligence  
 - [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)  
