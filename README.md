@@ -41,7 +41,7 @@ Summary of RAG Resources.
   2024.09 - Hongjin Qian - Beijing Academy of Artificial Intelligence  
 - [HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented Generation for Efficient Information Extraction](https://arxiv.org/abs/2408.04948)  
 2024.08 - Bhaskarjit Sarmah - NVIDIA  
-- [Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems](https://arxiv.org/abs/2407.10670) ✅   
+- [Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems](https://arxiv.org/abs/2407.10670)  
 2024.07 - Yunxiao Shi - University of Technology Sydney  
 - [Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation](https://arxiv.org/abs/2407.00072)  
 2024.07 - Yu Bai - Tsinghua University, China  
@@ -49,10 +49,12 @@ Summary of RAG Resources.
 2024.06 - Shuting Wang - Renmin University, China  
 - [Unified Active Retrieval for Retrieval Augmented Generation](https://arxiv.org/pdf/2406.12534)  
 2024.06 - Qinyuan Cheng - Fudan University, China  
-- [GraphRAG：From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130) ✅   
+- [GraphRAG：From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  
 2024.04 - Darren Edge - Microsoft Research, USA
 - [Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2310.14696)  
-2023.10 - Gangwoo Kim - Korea University, Korea  
+2023.10 - Gangwoo Kim - Korea University, Korea
+- [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)  
+  2023.10 - Akari Asai - University of Washington  
   
 ## 4. Chunker
 - [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
