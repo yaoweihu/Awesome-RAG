@@ -37,6 +37,8 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
+- [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)  
+  2024.10 - Zirui Guo - University of Hong Kong  
 - [OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](https://arxiv.org/abs/2410.01782)  
   2024.10 - Shayekh Bin Islam - Bangladesh University of Engineering and Technology  
 - [MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery](https://arxiv.org/abs/2409.05591)  
