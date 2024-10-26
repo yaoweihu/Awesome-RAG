@@ -61,7 +61,7 @@ Summary of RAG Resources.
   2023.10 - Akari Asai - University of Washington  
   
 ## 4. Chunker
-- [Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception](https://arxiv.org/abs/2410.12788)
+- [Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception](https://arxiv.org/abs/2410.12788)  
   2024.10 - Jihao Zhao - Renmin University  
 - [LumberChunker: Long-Form Narrative Document Segmentation](https://arxiv.org/abs/2406.17526)  
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
