@@ -10,6 +10,7 @@ Summary of RAG Resources.
 - [5. Retriever](#5-retriever)
 - [6. Reranker](#6-reranker)
 - [7. Evaluation](#7-evaluation)
+- [8. Optimization](#8-Optimization)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
@@ -87,6 +88,10 @@ Summary of RAG Resources.
 ## 7. Evaluation
 - [RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework](https://arxiv.org/abs/2408.01262)  
   2024.08 - Kunlun Zhu - Tsinghua University  
+
+## 8. Optimization
+- [Toward Optimal Search and Retrieval for RAG](https://arxiv.org/abs/2411.07396)  
+  2024.11 - Alexandria Leto - Intel Labs  
 
 ## Miscellaneous
 - [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
