@@ -11,6 +11,7 @@ Summary of RAG Resources.
 - [6. Reranker](#6-reranker)
 - [7. Evaluation](#7-evaluation)
 - [8. Optimization](#8-Optimization)
+- [9. Knowledge Graph](#9-knowledge-graph)
 - [Miscellaneous](#miscellaneous)
   
 ## 1. Survey
@@ -92,6 +93,10 @@ Summary of RAG Resources.
 ## 8. Optimization
 - [Toward Optimal Search and Retrieval for RAG](https://arxiv.org/abs/2411.07396)  
   2024.11 - Alexandria Leto - Intel Labs  
+
+## 9. Knowledge Graph
+- [SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graphs](https://arxiv.org/abs/2410.02811)  
+  2024.10 - Hanzhu Chen - University of Science and Technology of China  
 
 ## Miscellaneous
 - [Haystack](https://github.com/deepset-ai/haystack): Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more.  
