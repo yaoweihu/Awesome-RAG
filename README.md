@@ -31,6 +31,8 @@ Summary of RAG Resources.
 2023.12 - Yunfan Gao - Tongji University, China  
 
 ## 2. Comparision
+- [Enhancing Retrieval-Augmented Generation: A Study of Best Practices](https://arxiv.org/abs/2501.07391)  
+  2024.01 - Siran Li - University of Tübingen   
 - [RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation](https://arxiv.org/abs/2408.11381)  
 2024.08 - Xuanwang Zhang - Nanjing University  
 - [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)  
