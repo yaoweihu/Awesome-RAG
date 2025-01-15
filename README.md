@@ -75,6 +75,8 @@ Summary of RAG Resources.
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
 
 ## 5. Retriever
+- [A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558)   
+  2024.12 - Mingyang Song - Tencent  
 - [M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)    
 2024.02 - Jianlv Chen - BAAI, China  
 - [Few-shot Reranking for Multi-hop QA via Language Model Prompting](https://arxiv.org/abs/2205.12650)  
