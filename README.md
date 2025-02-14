@@ -43,6 +43,8 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
+- [Enhancing RAG with Active Learning on Conversation Records: Reject Incapables and Answer Capables](https://arxiv.org/pdf/2502.09073)
+- 2025.02 - Xuzhao Geng - Huazhong University of Science and Technology
 - [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2410.08821)  
   2024.10 -Ruobing Wang - Chinese Academy of Sciences  
 - [LightRAG: Simple and Fast Retrieval-Augmented Generation](https://arxiv.org/abs/2410.05779)  
