@@ -5,8 +5,8 @@
   2024.03 - Soyeong Jeong - Korea Advanced Institute of Science and Technology  
 
 ### Prompt Optimization
-- [A Survey of Automatic Prompt Engineering: An Optimization Perspective](https://arxiv.org/abs/2502.11560)  
-  2025.02 - Wenwu Li - Tongji University  
+- [A Systematic Survey of Automatic Prompt Optimization Techniques](https://arxiv.org/abs/2502.16923)  
+  2025.02 - Kiran Ramnath - Amazon Web Services    
 - [Self-Supervised Prompt Optimization](https://arxiv.org/abs/2502.06855)  
   2025.02 - Jinyu Xiang - DeepWisdom  
 - [PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427)  
