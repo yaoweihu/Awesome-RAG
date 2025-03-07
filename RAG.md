@@ -12,4 +12,8 @@
 - [Self-Supervised Prompt Optimization](https://arxiv.org/abs/2502.06855)  
   2025.02 - Jinyu Xiang - DeepWisdom  
 - [PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization](https://arxiv.org/abs/2310.16427)  
-  2023.10 - Xinyuan Wang - UC San Diego  
+  2023.10 - Xinyuan Wang - UC San Diego
+
+### Multi-Agent Debate
+- [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)  
+  2023.05 - Tian Liang - Tencent AI  
