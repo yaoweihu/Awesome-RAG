@@ -21,3 +21,7 @@
 ### Multi-Agent Debate
 - [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](https://arxiv.org/abs/2305.19118)  
   2023.05 - Tian Liang - Tencent AI  
+
+### Planning Agent
+- [PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving](https://arxiv.org/abs/2502.16111)  
+  2023.02 - Mihir Parmar - Google  
