@@ -11,6 +11,8 @@
 ### Prompt Optimization
 - [A Systematic Survey of Automatic Prompt Optimization Techniques](https://arxiv.org/abs/2502.16923)  
   2025.02 - Kiran Ramnath - Amazon Web Services  
+- [MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization](https://arxiv.org/abs/2503.16874)  
+  2025.03 - Jian Zhang - Xi'an Jiaotong University  
 - [Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization](https://arxiv.org/abs/2502.04295)  
   2025.02 - Yuanye Liu - Fudan University  
 - [Self-Supervised Prompt Optimization](https://arxiv.org/abs/2502.06855)  
