@@ -43,6 +43,10 @@ Summary of RAG Resources.
 2024.07 - Jiajie Jin - Renmin University, China  
 
 ## 3. Framework
+- [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786)
+2026.06 - Ruochang Li - Northeastern University, China
+- [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543)
+2025.02 - Pengcheng Huang - Northeastern University, China
 - [Enhancing RAG with Active Learning on Conversation Records: Reject Incapables and Answer Capables](https://arxiv.org/pdf/2502.09073)
 - 2025.02 - Xuzhao Geng - Huazhong University of Science and Technology
 - [Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2410.08821)  
@@ -77,6 +81,8 @@ Summary of RAG Resources.
 2024.06 - André V. Duarte - INESC-ID / Instituto Superior Técnico, Portugal   
 
 ## 5. Retriever
+- [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/)
+2025.02 - Sijia Yao - Northeastern University, China
 - [A Survey of Query Optimization in Large Language Models](https://arxiv.org/abs/2412.17558)   
   2024.12 - Mingyang Song - Tencent  
 - [M3-Embedding: Multi-Linguality, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)    
